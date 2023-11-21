@@ -1,4 +1,7 @@
 holaMundo2.py
 /__pycache__
 BACKEND/FastAPI/__pycache__
+BACKEND/FastAPI/db/__pycache__
+BACKEND/FastAPI/db/models/__pycache__
+BACKEND/FastAPI/db/schemas/__pycache__
 BACKEND/FastAPI/routers/__pycache__
